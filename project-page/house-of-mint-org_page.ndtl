@@ -1,0 +1,12 @@
+Music Experiments
+  Programmieren mit ORCA
+  	& Programmierung mit einer esoterischen Programmiersprache {ORCA(https://github.com/hundredrabbits/Orca)}, als MIDI-Ereignisgenerator, was zu einer programmatischen Annäherung an die Musik führt :) UND ES MACHT SPAß!!! :D:D:D Fröhliches Hacken!
+  	% example.gif
+  	& Wie von den Erfindern {hundredrabbits(http://100r.co)} angegeben, ist Orca eine esoterische Programmiersprache.
+  	& Im Grunde geht es darum, Ereignisse zu erzeugen, so genannte bangs. Diese finden innerhalb eines bestimmten Rahmens statt und können MIDI oder andere Events, wie z.B. UDP-Nachrichten, erzeugen. Durch dieses Design kann Orca für viele Dinge wie die Programmierung von Musik oder visuellen Komponenten verwendet werden
+  	& Als Teil des Kunstprojektes von House of Mint eignet sich das Projekt sehr gut da die Struktur und die Menge der Möglichkeiten unbegrenzte Kreativität erlauben (wenn man es einmal verstanden hat). Orca arbeitet in einem freien Raum, im Gegensatz zu dem wie es Programmiersprachen normalerweise tun.
+  	& Beim Öffnen von Orca wird ein leeres Gitter angezeigt, in dem man sich frei bewegen und tippen kann. Die Benutzung von Orca wird durch Funktionen realisiert. Es gibt eine Funktion für jeden Buchstaben des Alphabets. Diese Funktionen nehmen Parameter an, die rechts, links und unter dem Funktionsbuchstaben dargestellt werden. Parameter einer Funktion die auf Standardwerte fallen, werden durch Punkte dargestellt. Auch all der leere Raum eines Projekts wird so dargestellt. Aber Sie werden es sehen, wenn Sie es ausprobieren. Zum Beispiel steht *C* für *Zähler*.
+  	% counters.gif
+  	& Detailliertere Beispiele werden in den einelnen Sessions kommen.
+  Klangerzeugung
+  	& Da Orca lediglich als eine Art progammatische Klaviatur agiert aber selbst keine Töne erzeugen kann braucht es einen Klangerzeuger. Ein Programm das die Klänge die Orca spielt wiedergeben bzw. interpretieren kann. Zum starten ist {Pilot(https://github.com/hundredrabbits/pilot)} ein guter Einstieg.
