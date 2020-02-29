@@ -6,7 +6,7 @@ AND IT'S FUN!!! :D:D:D
 
 Happy hacking!
 
-Example: Test
+Example:
 
 ![example](22-12-2019-Techno/example.gif)
 
