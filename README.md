@@ -39,3 +39,46 @@ but there are several other companion applications:
 If you have worked with Ableton live before, this is a very powerfull (but also expensive (very expensive)) option.
 Only recommanded if you'r really ambitious about this kind of stuff.
 
+
+
+## Orca cheatsheet
+
+When your getting started, this cheatsheet should help a lot. A function for every letter in the alphabet
+can be a little overwhelming at time.
+
+	a Outputs sum of inputs
+	b Outputs difference between inputs
+	c Outputs modulo of frame
+	d Bangs on modulo of frame
+	e Moves eastward, or bangs
+	f Bangs if inputs are equal
+	g Writes operands with offset
+	h Halts southward operands
+	i Increments southwards operands
+	j Increments northwards operands
+	k Reads multiple variables
+	l Outputs the smallest input
+	m Outputs product of inputs
+	n Moves northward, or bangs
+	o Read operand with offset
+	p Writes eastward operand
+	q Reads operands with offset
+	r Outputs random value
+	s Moves southwards, or bangs
+	t Reads eastward operand
+	u angs on Euclidean rhythm
+	v Reads and writes variable
+	w Modes westward, or bangs
+	x Writes operand with offset
+	y Outputs westward operand
+	z Transitions operand to target
+	* bangs neighboring operands
+	# Halts line
+	$ Sends ORCA command
+	: Sends MIDI note
+	! Sends MIDI control change
+	? Sends MIDI oitch bend
+	% Sends MIDI monophonic note
+	= Sends OSC message
+	; Sends UDP message
+
